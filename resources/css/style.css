@@ -7,7 +7,7 @@ body
 h1, h2 {
   font-weight: bold;
 }
-h1, header a, .about-us a, footer, footer a {
+h1, header a, footer, footer a {
   color: white;
 }
 
