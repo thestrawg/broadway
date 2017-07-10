@@ -7,11 +7,8 @@ body
 h1, h2 {
   font-weight: bold;
 }
-h1, a, footer{
+h1, header a, .about-us a, footer, footer a {
   color: white;
-}
-#phone-number {
-  color: black;
 }
 
 header, .about-us h1 {
